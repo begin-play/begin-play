@@ -8,7 +8,7 @@
 
 👩‍💻 Check out my [portfolio](https://beginplay.me) to learn more about my work.
 
-📄 Resume: [Download PDF](https://beginplay.me/assets/Sagar_Unity_Developer_Resume.pdf)
+📄 Resume: [Download PDF](assets/SagarKumar_UnityDeveloper_Resume.pdf)
 
 ---
 
